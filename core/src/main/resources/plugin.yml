@@ -1,5 +1,5 @@
-name: MineTinker Inventories
+name: MineTinker-Inventories
 version: ${project.version}
-main: de.flo56958.minetinkerinventories.MineTinkerInventories
+main: de.flo56958.MineTinkerInventories.Main
 api-version: 1.13
 depend: [MineTinker]
